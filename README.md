@@ -1,4 +1,4 @@
-~~# kollavarsham-python~~
+# ~~kollavarsham-python~~
 ~~Python implementation of the kollavarsham library~~
 
 ### DEPRECATED (2020-02-15)
